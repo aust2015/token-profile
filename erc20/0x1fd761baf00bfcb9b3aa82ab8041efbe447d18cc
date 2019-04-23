@@ -1,0 +1,20 @@
+{
+    "website": "https://www.stox.com/",
+    "published_on": "2019-04-10",
+    "links": {
+        "telegram": "https://t.me/joinchat/DByWw0Pnq9BAy4FqPv_Lyg",
+        "reddit": "https://www.reddit.com/r/STOX/",
+        "github": "https://github.com/stx-technologies/stox-token",
+        "twitter": "https://twitter.com/stx_coin"
+    },
+    "overview": {
+        "en": "april-token",
+        "zh": "四月。"
+    },
+    "symbol": "STX",
+    "initial_price": {
+        "USD": "1.0 USD",
+        "ETH": "0.05 ETH"
+    },
+    "address": "0x006BeA43Baa3f7A6f765F14f10A1a1b08334EF45"
+}
